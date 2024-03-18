@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VishwaPortfolio/static/css/main.e9267639.css",
+    "main.js": "/VishwaPortfolio/static/js/main.3f22acc1.js",
+    "static/media/about.png": "/VishwaPortfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/VishwaPortfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/Login page.png": "/VishwaPortfolio/static/media/Login page.1645eac9e3c0db2fd2d1.png",
+    "static/media/resume.jpg": "/VishwaPortfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/Jacob and Co E-Commerce Website.png": "/VishwaPortfolio/static/media/Jacob and Co E-Commerce Website.cc905212b6dd7eda388f.png",
+    "static/media/Book Saver Website.png": "/VishwaPortfolio/static/media/Book Saver Website.89b11dfb13efb96920af.png",
+    "index.html": "/VishwaPortfolio/index.html",
+    "main.e9267639.css.map": "/VishwaPortfolio/static/css/main.e9267639.css.map",
+    "main.3f22acc1.js.map": "/VishwaPortfolio/static/js/main.3f22acc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9267639.css",
+    "static/js/main.3f22acc1.js"
+  ]
+}
