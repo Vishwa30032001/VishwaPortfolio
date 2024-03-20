@@ -8,7 +8,7 @@ export default function Hero() {
 const config = {
     subtitle: 'Im Full-Stack Developer',
     social:{
-        Linkedin:'https://www.linkedin.com/in/vishwa-s-77aa62204/',
+        Linkedin:'https://www.linkedin.com/in/vishwa3003/',
         Instagram:'https://www.instagram.com/_vish_wa_?igsh=eThwZGc1bGFxaTgy',
         Github:'https://github.com/Vishwa30032001'
     }
